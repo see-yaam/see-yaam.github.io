@@ -154,9 +154,16 @@ const CONFIG = {
       position: 'Content Architect ',
       from: 'October 2024',
       to: 'Present',
-      companyLink: 'https://lms.novonex.io/',
+      companyLink: 'https://nexcourses.com/',
     },
-  /*  {
+   {
+      company: 'NovoNex',
+      position: 'Instructor',
+      from: 'january 2025',
+      to: 'Present',
+      companyLink: 'https://nexcourses.com/',
+    },
+      /*  {
       company: 'Company Name',
       position: 'Position',
       from: 'July 2019',
